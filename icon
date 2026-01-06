@@ -1,0 +1,6 @@
+my-assets/
+ ├─ logos/
+ │   ├─ my_tool.png
+ │   ├─ my_tool_dark.png
+ │   └─ my_tool.svg
+ └─ README.md
